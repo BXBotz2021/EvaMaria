@@ -1,2 +1,2 @@
 
-web: python3 {EvaMaria}.py
+web: python3 {.gitignore}.py
