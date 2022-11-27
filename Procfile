@@ -1,2 +1,2 @@
 
-web: python3 {master}.py
+web: python3 {EvaMaria}.py
