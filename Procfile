@@ -1,2 +1,2 @@
 
-web: python3 {main file}.py
+web: python3 {Telegramfun}.py
